@@ -1,6 +1,9 @@
 # Fetal-Acidosis-Classification
 Repository containing my work on a semestral project addressing the problem of classifying Fetal Acidosis cases. This work was done as part of the [Artificial Intelligence](https://moodle.fel.cvut.cz/local/kos/pages/course/info.php?code=B3M33UI&semester=B162) course at CTU.
 
+This `README` serves only as a brief description of the task at hand and to visually summarise the results. For a thorough description of used methods, models and a discussion of achieved results, please see
+the report I have written that can be found in the `report` folder. 
+
 ## Project Description
 The aim of this project was to classify cases of Fetal Acidosis (high levels of toxicity in an unborn baby's blood from available data gathered during birth. To solve this task, I implemented four machine-
 learning models, namely the Logistic Regression, Support Vector Machine, Random Forest, and Multi-Layer Perceptron classificator. I tested the classifiers on real data using multiple performance measures, such as 
@@ -23,6 +26,8 @@ In this section, I briefly summarise the achieved results and compare the create
 ### Confusion Matrices
 ![Comparison of Confusion Matrices for Individual Models](figs/conf_matrices.png)
 
-### ROC
+### ROC and AUC
+![ROC and AUC Comparison for Individual Models](figs/ROC.png)
 
 ### Geometric Mean
+![Geometric Mean Comparison for Individual Models](figs/comparison-eps-converted-to.pdf)
