@@ -21,6 +21,7 @@ The key metric for evaluating the models was the *geometric mean* defined as $g 
 In this section, I briefly summarise the achieved results and compare the created models using multiple metrics.
 
 ### Confusion Matrices
+![Comparison of Confusion Matrices for Individual Models](figs/conf_matrices.png)
 
 ### ROC
 
