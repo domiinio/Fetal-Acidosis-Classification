@@ -30,4 +30,4 @@ In this section, I briefly summarise the achieved results and compare the create
 ![ROC and AUC Comparison for Individual Models](figs/ROC.png)
 
 ### Geometric Mean
-![Geometric Mean Comparison for Individual Models](figs/comparison-eps-converted-to.pdf)
+![Geometric Mean Comparison for Individual Models](figs/gmean_cmp.png)
