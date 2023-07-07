@@ -15,6 +15,11 @@ represented equally.
 
 To solve the task I have used the `scikit-learn` Python library and there implemented models and methods.
 
+## Repository Structure
+  - `code` contains `Python` scripts that solve the task at hand.
+  - `figs` is a folder containing all the figures used in this README as well as the figures that can be found in the report.
+  - `report` contains a pdf file describing in depth all of the used algorithms and implementation aspects. It further describes and discusses achieved results.
+
 ## Used Models
 Each of the used models is in-depth described in the .pdf report where I summarise all my results and methods. This report can be found in the `report` folder accessible from the root of this repo.
 
